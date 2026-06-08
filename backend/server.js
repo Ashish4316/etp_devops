@@ -15,4 +15,4 @@ connection.connect((err) => {
   console.log("Connected to MySQL!");
 });
 
-console.log("Every thing is Fine")
+console.log("updated token ");
